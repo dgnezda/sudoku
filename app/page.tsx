@@ -13,7 +13,8 @@ export default function Home() {
     [0, 0, 0, 0, 8, 0, 0, 7, 9]
 ];
   return (
-    <div className="flex items-center justify-center h-[600px]">
+    <div className="flex flex-col items-center justify-center h-[800px]">
+      <h1 className="text-white text-bold text-3xl">Sudoku!</h1>
       <SudokuGrid sudokuTable={unsolvedBoard} />
     </div>
   );
