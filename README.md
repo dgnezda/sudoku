@@ -4,7 +4,7 @@ This is a Sudoku solving game.
 
 1. Clone the repo.
 
-2. Run the development server:
+2. Open in your IDE and run the development server:
 
 ```bash
 npm run dev
@@ -16,4 +16,4 @@ pnpm dev
 bun dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to play Sudoku.
